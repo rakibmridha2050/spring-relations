@@ -7,5 +7,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/course")
 public class CourseController {
-    private String name ;
+    private String Ename ;
 }
